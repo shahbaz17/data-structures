@@ -1,0 +1,18 @@
+Algorithms :-
+In mathematics and computer science, an algorithm ( i/ˈælɡərɪðəm/ AL-gə-ri-dhəm) 
+is a self-contained step-by-step set of operations to be performed. Algorithms exist that perform calculation, data processing, and automated reasoning.
+**this is what you get after googling the word algorithm(courtesy: Wikipedia)|**
+
+in easy and common words algorithm is a set of procedures/tasks to be followed in a defined manner to achieve a certain goal.
+-----------------------------------------------------------------------------------------------
+i.e for making tea the algorithm could be roughly like
+-----------------------------------------------------------------------------------------------
+1.take a utensil
+2.fire on the gas stove 
+3.pour milk ,water and tea  leaves 
+4.add sugar to taste 
+5.boil the liquid 
+6.strain and serve 
+------------------------------------------------------------------------------------------------
+
+now if you observe that while performing this task you cannot do the 6 step before 5 else tea will be not tea:P so algorithm specifies some tasks and also their respective positions of execution to successfully perform the operation
