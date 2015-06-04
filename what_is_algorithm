@@ -14,5 +14,5 @@ i.e for making tea the algorithm could be roughly like
 5.boil the liquid 
 6.strain and serve 
 ------------------------------------------------------------------------------------------------
-
-now if you observe that while performing this task you cannot do the 6 step before 5 else tea will be not tea:P so algorithm specifies some tasks and also their respective positions of execution to successfully perform the operation
+now if you observe that while performing this task you cannot do the 6 step before 5 else tea will be not tea:P so 
+algorithm specifies some tasks and also their respective positions of execution to successfully perform the operation
